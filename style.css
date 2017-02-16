@@ -14,11 +14,11 @@ img {
 	border-radius: 12px;
 }
 
-a:link, 
+a:link,
 a:visited,
 a:hover,
-a:active { 
-  color: #e6ac28; 
+a:active {
+  color: #e6ac28;
   text-decoration: none;
   font-weight: bold;
  }
